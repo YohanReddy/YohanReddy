@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 # 💫 About Me:
 🔭 I'm currently working on building my portfolio.
 <br>
-👨🏻‍💻I develop Websites and Mobile Applications.
+👨🏻‍💻I develop AI solutions, Websites and Mobile Applications.
 <br>
-🏢 I'm looking for entry level developer roles.
+🏢 I'm looking for entry level AI / Developer roles.
 <br>
 👯 I’m looking to collaborate on fun projects.
 
